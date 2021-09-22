@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Юлия Пушкова](https://up.htmlacademy.ru/htmlcss/32/user/247313).
-* Наставник: [Анастасия Ничипорчук] (https://htmlacademy.ru/profile/id612797).
+* Наставник: [Анастасия Ничипорчук](https://htmlacademy.ru/profile/id612797).
 
 ---
 
